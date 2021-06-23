@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: github.com/dhasirar
-#Instagram: @dhasirar
+#Instagram: @Hamza Larhrabi
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
 
 checkroot() {
